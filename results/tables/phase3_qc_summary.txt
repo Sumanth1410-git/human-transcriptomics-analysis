@@ -1,0 +1,7 @@
+GSE147507 Quality Control Summary
+==================================================
+Genes: 21,797
+Samples: 78
+Missing values: 0
+Zero-count genes: 1,830
+Mean library size: 1.07e+07
