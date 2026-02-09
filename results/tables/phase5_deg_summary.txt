@@ -1,0 +1,7 @@
+PHASE 5 DEG ANALYSIS SUMMARY
+==================================================
+Total genes tested: 13,803
+Upregulated: 331
+Downregulated: 34
+Total DEGs: 365
+Thresholds: |log2FC| >= 1.5, FDR < 0.05
