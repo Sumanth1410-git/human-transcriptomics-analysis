@@ -1,0 +1,8 @@
+PHASE 6 FUNCTIONAL ANNOTATION SUMMARY
+==================================================
+DEGs analyzed: 365
+Biological_Process: 205 terms
+Molecular_Function: 23 terms
+Cellular_Component: 2 terms
+KEGG_Pathways: 67 terms
+Top DEGs annotated: 40

@@ -1,0 +1,5 @@
+Category,Significant_Terms,Top_Term,Top_P_value
+Biological_Process,205,Regulation Of Transcription By RNA Polymerase II (GO:0006357),3.1825184225389736e-22
+Molecular_Function,23,RNA Polymerase II Transcription Regulatory Region Sequence-Specific DNA Binding (GO:0000977),6.752925635825614e-21
+Cellular_Component,2,Nucleus (GO:0005634),1.1097530648212588e-08
+KEGG_Pathways,67,TNF signaling pathway,1.1657680855977966e-15
