@@ -1,0 +1,23 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+transcriptomics_env/
+*.egg-info/
+dist/
+build/
+
+# Data files (don't commit large datasets)
+data/raw/*.csv
+data/raw/*.tsv
+data/raw/*.h5ad
+*.fastq.gz
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
