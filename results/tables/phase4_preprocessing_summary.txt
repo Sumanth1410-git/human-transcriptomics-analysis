@@ -1,0 +1,7 @@
+PHASE 4 PREPROCESSING SUMMARY
+==================================================
+Filtered genes: 13,803
+Samples analyzed: 20
+Conditions: SARS-CoV-2 infected vs Mock
+Cell types: A549-ACE2, Calu-3
+Normalization: DESeq2 median-of-ratios
