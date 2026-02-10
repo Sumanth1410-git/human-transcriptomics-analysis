@@ -1,0 +1,7 @@
+PHASE 7 NETWORK ANALYSIS SUMMARY
+==================================================
+Network nodes: 80
+Network edges: 1886
+Density: 0.597
+Top hub: IRF1
+Top 10 hubs: IRF1, FOSB, IER3, CXCL2, NFKBIZ, PPP1R15A, NR1D1, TIPARP, ATF3, C11orf96
