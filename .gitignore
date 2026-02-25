@@ -9,15 +9,28 @@ transcriptomics_env/
 dist/
 build/
 
-# Data files (don't commit large datasets)
-data/raw/*.csv
-data/raw/*.tsv
-data/raw/*.h5ad
-*.fastq.gz
+# Large RAW data files (keep these ignored - too large for Git)
+data/raw/*.gz
+data/raw/*.fastq
+data/raw/*.bam
+
+# Processed data is small enough to commit (REMOVED from ignore)
+# data/processed/ 
 
 # Jupyter
 .ipynb_checkpoints/
 
-# OS
+# API Keys (CRITICAL - never commit!)
+.env
+
+# OS files
 .DS_Store
 Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
