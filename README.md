@@ -47,10 +47,10 @@ This project presents a comprehensive exploratory analysis of human transcriptom
 - **34 downregulated** (metabolic suppression)
 
 **Top upregulated genes:**
-- **IFNB1** (6.47 log2FC) - Type I Interferon
-- **TNF** (5.56 log2FC) - Pro-inflammatory cytokine
-- **IL6** (4.46 log2FC) - Cytokine storm mediator
-- **CXCL2/3** (~5.2 log2FC) - Neutrophil chemotaxis
+- **IFNB1** (6.47 log2FC) - Type I Interferon.
+- **TNF** (5.56 log2FC) - Pro-inflammatory cytokine.
+- **IL6** (4.46 log2FC) - Cytokine storm mediator.
+- **CXCL2/3** (~5.2 log2FC) - Neutrophil chemotaxis.
 
 ### Functional Enrichment
 - **205 enriched biological processes** (defense response to virus, transcriptional regulation)
