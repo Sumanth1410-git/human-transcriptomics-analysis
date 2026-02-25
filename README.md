@@ -279,9 +279,11 @@ Contributions are welcome! Please:
 
 ## 📧 Contact
 
-**Project Maintainer:** Your Name  
-**Email:** your.email@example.com  
-**GitHub:** [@YourUsername](https://github.com/YOUR_USERNAME)
+**Project Maintainer:** P Sumanth
+
+**Email:** sumanthp141005@gmail.com 
+
+**GitHub:** [@Sumanth1410-git](https://github.com/Sumanth1410-git)
 
 ---
 
