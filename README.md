@@ -279,7 +279,7 @@ Contributions are welcome! Please:
 
 ## 📧 Contact
 
-**Project Maintainer:** P Sumanth
+**P Sumanth**
 
 **Email:** sumanthp141005@gmail.com 
 
